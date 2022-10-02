@@ -5,12 +5,20 @@
     <link>https://roghayehmaleki.github.io/</link>
       <atom:link href="https://roghayehmaleki.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Roghayeh Maleki</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://roghayehmaleki.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Roghayeh Maleki</title>
       <link>https://roghayehmaleki.github.io/</link>
     </image>
+    
+    <item>
+      <title>Intersection density of imprimitive groups of degree pq</title>
+      <link>https://roghayehmaleki.github.io/publication/publication9/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication9/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Applications of the isolating fusion algorithm to table algebras and association schemes</title>
