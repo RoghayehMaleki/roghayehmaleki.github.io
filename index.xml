@@ -5,7 +5,7 @@
     <link>https://roghayehmaleki.github.io/</link>
       <atom:link href="https://roghayehmaleki.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Roghayeh Maleki</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://roghayehmaleki.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Roghayeh Maleki</title>
@@ -13,26 +13,42 @@
     </image>
     
     <item>
-      <title>Intersection density of imprimitive groups of degree pq</title>
+      <title>On the intersection spectrum of $PSL_2(q)$</title>
+      <link>https://roghayehmaleki.github.io/publication/publication12/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The q-Analogue of Zero Forcing for Certain Families of Graphs</title>
+      <link>https://roghayehmaleki.github.io/publication/publication11/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance-regular graphs with classical parameters that support a uniform structure: case q≤1</title>
+      <link>https://roghayehmaleki.github.io/publication/publication10/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On closed distance magic circulants of valency up to 5</title>
       <link>https://roghayehmaleki.github.io/publication/publication9/</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://roghayehmaleki.github.io/publication/publication9/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Applications of the isolating fusion algorithm to table algebras and association schemes</title>
-      <link>https://roghayehmaleki.github.io/publication/publication8/</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://roghayehmaleki.github.io/publication/publication8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Terwilliger algebra of the group association scheme of $C_n : C_2$</title>
-      <link>https://roghayehmaleki.github.io/publication/publication7/</link>
-      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://roghayehmaleki.github.io/publication/publication7/</guid>
+      <title>The search for small association schemes with noncyclotomic eigenvalues</title>
+      <link>https://roghayehmaleki.github.io/publication/publication6/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication6/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -50,7 +66,7 @@
     <item>
       <title>On the intersection density of the symmetric group acting on uniform subsets of small size</title>
       <link>https://roghayehmaleki.github.io/publication/publication5/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://roghayehmaleki.github.io/publication/publication5/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -67,10 +83,18 @@
     </item>
     
     <item>
-      <title>The search for small association schemes with noncyclotomic eigenvalues</title>
-      <link>https://roghayehmaleki.github.io/publication/publication6/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://roghayehmaleki.github.io/publication/publication6/</guid>
+      <title>Applications of the isolating fusion algorithm to table algebras and association schemes</title>
+      <link>https://roghayehmaleki.github.io/publication/publication8/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Terwilliger algebra of the group association scheme of $C_n : C_2$</title>
+      <link>https://roghayehmaleki.github.io/publication/publication7/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication7/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -105,7 +129,7 @@
     </item>
     
     <item>
-      <title>On the second eigenvalue of a Cayley graph of the symmetric group</title>
+      <title>On the second eigenvalue of certain Cayley graphs of the symmetric group</title>
       <link>https://roghayehmaleki.github.io/publication/publication4/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://roghayehmaleki.github.io/publication/publication4/</guid>
@@ -291,11 +315,49 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>External Project</title>
+      <link>https://roghayehmaleki.github.io/data-scheme/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/data-scheme/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://roghayehmaleki.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://roghayehmaleki.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Feasible data for association schemes</title>
+      <link>https://roghayehmaleki.github.io/data-scheme/project/internal-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/data-scheme/project/internal-project/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Scheme&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://roghayehmaleki.github.io/data-scheme/project/internal-project/data.txt&#34;&gt;Rank4S QPGs - UpToPermutationEquivalence&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
     </item>
     
   </channel>
