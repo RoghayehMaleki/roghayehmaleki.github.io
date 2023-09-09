@@ -5,12 +5,20 @@
     <link>https://roghayehmaleki.github.io/</link>
       <atom:link href="https://roghayehmaleki.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Roghayeh Maleki</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://roghayehmaleki.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Roghayeh Maleki</title>
       <link>https://roghayehmaleki.github.io/</link>
     </image>
+    
+    <item>
+      <title>On the second eigenvalue of a Cayley graph of the symmetric group</title>
+      <link>https://roghayehmaleki.github.io/publication/publication13/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication13/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the intersection spectrum of $PSL_2(q)$</title>
