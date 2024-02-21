@@ -5,7 +5,7 @@
     <link>https://roghayehmaleki.github.io/publication-type/2/</link>
       <atom:link href="https://roghayehmaleki.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://roghayehmaleki.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>On the second eigenvalue of a Cayley graph of the symmetric group</title>
+      <title>On the Terwilliger algebra of the group association scheme of $Cn⋊C2$</title>
+      <link>https://roghayehmaleki.github.io/publication/publication14/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On cocliques in commutative Schurian association schemes of the symmetric group</title>
       <link>https://roghayehmaleki.github.io/publication/publication13/</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://roghayehmaleki.github.io/publication/publication13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The q-Analogue of Zero Forcing for Certain Families of Graphs</title>
+      <link>https://roghayehmaleki.github.io/publication/publication11/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the second eigenvalue of a Cayley graph of the symmetric group</title>
+      <link>https://roghayehmaleki.github.io/publication/publication8/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/publication8/</guid>
       <description></description>
     </item>
     
@@ -41,14 +65,6 @@
       <link>https://roghayehmaleki.github.io/publication/publication9/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://roghayehmaleki.github.io/publication/publication9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Terwilliger Algebra of the group association scheme of $C_n times C_2$</title>
-      <link>https://roghayehmaleki.github.io/publication/publication8/</link>
-      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://roghayehmaleki.github.io/publication/publication8/</guid>
       <description></description>
     </item>
     
