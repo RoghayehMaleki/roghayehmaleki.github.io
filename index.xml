@@ -5,7 +5,7 @@
     <link>https://roghayehmaleki.github.io/</link>
       <atom:link href="https://roghayehmaleki.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Roghayeh Maleki</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://roghayehmaleki.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Roghayeh Maleki</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Intersection Density of Imprimitive Groups of Degree $pq$</title>
+      <link>https://roghayehmaleki.github.io/publication/degree-pq/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/degree-pq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Terwilliger algebra of the group association scheme of $Cn⋊C2$</title>
+      <link>https://roghayehmaleki.github.io/publication/terwilliger-mitra/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://roghayehmaleki.github.io/publication/terwilliger-mitra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Parameters of Quotient-Polynomial Graphs</title>
       <link>https://roghayehmaleki.github.io/publication/q-polynomial-allen/</link>
-      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>https://roghayehmaleki.github.io/publication/q-polynomial-allen/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -32,14 +48,6 @@
     </item>
     
     <item>
-      <title>On the Terwilliger algebra of the group association scheme of $Cn⋊C2$</title>
-      <link>https://roghayehmaleki.github.io/publication/terwilliger-mitra/</link>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://roghayehmaleki.github.io/publication/terwilliger-mitra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On cocliques in commutative Schurian association schemes of the symmetric group</title>
       <link>https://roghayehmaleki.github.io/publication/schorian-association/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
@@ -52,14 +60,6 @@
       <link>https://roghayehmaleki.github.io/publication/zero-forcing/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://roghayehmaleki.github.io/publication/zero-forcing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intersection Density of Imprimitive Groups of Degree $pq$</title>
-      <link>https://roghayehmaleki.github.io/publication/degree-pq/</link>
-      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://roghayehmaleki.github.io/publication/degree-pq/</guid>
       <description></description>
     </item>
     
